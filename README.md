@@ -5,7 +5,7 @@ A two-service blog application: a Flask REST API backend and a Flask frontend th
 ## Project Structure
 
 ```
-4_10-MasterBlog-API/
+MasterBlog-API/
 ├── backend/
 │   ├── data/masterblog_posts.json   # post data storage
 │   └── static/masterblog.json       # Swagger API spec
