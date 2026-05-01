@@ -13,5 +13,10 @@
         "id": 4,
         "title": "Bavaria",
         "content": "Forecast: Spring weather with a lot of sunshine today"
+    },
+    {
+        "id": 5,
+        "title": "Germany",
+        "content": "Germany"
     }
 ]
