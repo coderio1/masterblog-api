@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": 2,
+        "title": "Leipzig",
+        "content": "Today is nice and sunny day in Leipzig"
+    },
+    {
+        "id": 3,
+        "title": "Berlin",
+        "content": "Berlin has got a nice and sunny weather today"
+    },
+    {
+        "id": 4,
+        "title": "Bavaria",
+        "content": "Forecast: Spring weather with a lot of sunshine today"
+    }
+]
